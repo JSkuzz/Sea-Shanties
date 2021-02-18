@@ -29,7 +29,7 @@ public class AlgoPractice {
 		
 		//log positive numbers  starting at 2016 - 0 by 4s without a for loop
 		
-		
+		//reverse an array
 	}
 
 }
